@@ -35,6 +35,8 @@ public interface XTRConstants extends XMLReflectConstants{
     String XTR_DESCRIPTION_TAG = "description";
     String XTR_FILE_ENTRY_TAG = "fileEntry";
     String XTR_GENERIC_ENTRY_TAG = "genericEntry";
+    String XTR_TEST_REPORT_TAG = "testReport";
+    String XTR_TEST_SUITE_REPORT_TAG = "testSuiteReport";
     String XTR_URI_ENTRY_TAG = "uriEntry";
     
     /////////////////////////////////////////////////////////////////////////
