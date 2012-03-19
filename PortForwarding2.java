@@ -103,7 +103,6 @@ public class PortForwarding
 		}
 		catch (IOException e)
 		{
-			e.printStackTrace(System.err);
 			System.exit(2);
 		}
 	}
