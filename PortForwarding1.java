@@ -10,7 +10,6 @@ public class PortForwarding
 	{
 		try
 		{
-			Thread.sleep(milliSeconds);
 		}
 		catch (InterruptedException e)
 		{
