@@ -31,7 +31,6 @@ import java.io.* ;
  */
 public class Hello {
     int foo = 1998 ;
-    int hex_foo = 0xCAFEBABE;
     boolean b = false;
     Integer i = null ;
     char c = '\'', d = 'n', e = '\\' ;
