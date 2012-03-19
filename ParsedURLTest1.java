@@ -74,8 +74,6 @@ public class ParsedURLTest extends AbstractTest {
      */
     public ParsedURLTest(String base, String sub, String ref){
         this.base = base;
-        this.sub  = sub;
-        this.ref  = ref;
     }
 
     /**
