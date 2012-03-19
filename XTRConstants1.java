@@ -53,3 +53,4 @@ public interface XTRConstants extends XMLReflectConstants{
     String XTR_PASSED_VALUE = "passed";
     String XTR_FAILED_VALUE = "failed";
 }
+  
